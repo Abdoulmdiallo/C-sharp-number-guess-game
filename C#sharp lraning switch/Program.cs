@@ -35,8 +35,8 @@
                         {
                             play_again = false;
                         }
-
-                        Console.WriteLine("Thank yu for playing.....");
+                        
+                        Console.WriteLine("Thank you for playing.....");
                         break;//reset number
 
                     }
